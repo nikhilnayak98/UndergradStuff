@@ -1,2 +1,1 @@
-# UndergradStuff
-My undergrad stuff.
+# Undergrad Stuff
